@@ -164,45 +164,6 @@ My focus is on developing practical software and exploring how intelligent syste
 
 </div>
 
-## 🐍 Contribution Activity
-
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/Muneeb-Tahir/Muneeb-Tahir/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution graph"/>
-
-</div>
-
-> **Note:** The contribution animation requires a GitHub Actions workflow in your profile repository. See the setup instructions below.
-
-## 🤝 Let's Connect
-
-I'm always interested in learning, building, and connecting with people who enjoy technology and solving meaningful problems.
-
-<div align="center">
-
-  <a href="https://github.com/Muneeb-Tahir">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-
-  <!-- Add your LinkedIn profile URL when ready. -->
-
-  <!--
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  -->
-
-  <!-- Add your professional email when ready. -->
-
-  <!--
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  -->
-
-</div>
-
----
 
 <div align="center">
 
