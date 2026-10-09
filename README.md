@@ -173,16 +173,6 @@ My focus is on developing practical software and exploring how intelligent syste
 
 </div>
 
-## 🐍 Contribution Activity
-
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/Muneeb-Tahir/Muneeb-Tahir/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution graph"/>
-
-</div>
-
-> **Note:** The contribution animation requires a GitHub Actions workflow in your profile repository. See the setup instructions below.
-
 ## 🤝 Let's Connect
 
 I'm always interested in learning, building, and connecting with people who enjoy technology and solving meaningful problems.
