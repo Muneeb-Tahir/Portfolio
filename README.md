@@ -1,5 +1,13 @@
-<<<<<<< Updated upstream
 # ⚡ Muneeb Tahir | Developer Portfolio
+
+[![Visit My Portfolio]
+(./portfolio-preview.png))]
+
+
+
+(https://portfolio-jade-seven-t8c37886y3.vercel.app/)
+
+**AI/ML Engineer in Progress | Python Developer**
 
 <div align="center">
 
